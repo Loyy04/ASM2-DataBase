@@ -1,0 +1,44 @@
+D:\csharp1\asmtiennuoc\asmtiennuoc\bin\Debug\asmtiennuoc.exe.config
+D:\csharp1\asmtiennuoc\asmtiennuoc\bin\Debug\asmtiennuoc.exe
+D:\csharp1\asmtiennuoc\asmtiennuoc\bin\Debug\asmtiennuoc.pdb
+D:\csharp1\asmtiennuoc\asmtiennuoc\obj\Debug\asmtiennuoc.csproj.AssemblyReference.cache
+D:\csharp1\asmtiennuoc\asmtiennuoc\obj\Debug\asmtiennuoc.csproj.SuggestedBindingRedirects.cache
+D:\csharp1\asmtiennuoc\asmtiennuoc\obj\Debug\asmtiennuoc.Form1.resources
+D:\csharp1\asmtiennuoc\asmtiennuoc\obj\Debug\asmtiennuoc.Properties.Resources.resources
+D:\csharp1\asmtiennuoc\asmtiennuoc\obj\Debug\asmtiennuoc.csproj.GenerateResource.cache
+D:\csharp1\asmtiennuoc\asmtiennuoc\obj\Debug\asmtiennuoc.csproj.CoreCompileInputs.cache
+D:\csharp1\asmtiennuoc\asmtiennuoc\obj\Debug\asmtiennuoc.exe
+D:\csharp1\asmtiennuoc\asmtiennuoc\obj\Debug\asmtiennuoc.pdb
+C:\Users\Quang Tuan\Documents\Zalo Received Files\asmtiennuoc\asmtiennuoc\bin\Debug\asmtiennuoc.exe.config
+C:\Users\Quang Tuan\Documents\Zalo Received Files\asmtiennuoc\asmtiennuoc\bin\Debug\asmtiennuoc.exe
+C:\Users\Quang Tuan\Documents\Zalo Received Files\asmtiennuoc\asmtiennuoc\bin\Debug\asmtiennuoc.pdb
+C:\Users\Quang Tuan\Documents\Zalo Received Files\asmtiennuoc\asmtiennuoc\obj\Debug\asmtiennuoc.csproj.AssemblyReference.cache
+C:\Users\Quang Tuan\Documents\Zalo Received Files\asmtiennuoc\asmtiennuoc\obj\Debug\asmtiennuoc.Form1.resources
+C:\Users\Quang Tuan\Documents\Zalo Received Files\asmtiennuoc\asmtiennuoc\obj\Debug\asmtiennuoc.Properties.Resources.resources
+C:\Users\Quang Tuan\Documents\Zalo Received Files\asmtiennuoc\asmtiennuoc\obj\Debug\asmtiennuoc.csproj.GenerateResource.cache
+C:\Users\Quang Tuan\Documents\Zalo Received Files\asmtiennuoc\asmtiennuoc\obj\Debug\asmtiennuoc.csproj.CoreCompileInputs.cache
+C:\Users\Quang Tuan\Documents\Zalo Received Files\asmtiennuoc\asmtiennuoc\obj\Debug\asmtiennuoc.exe
+C:\Users\Quang Tuan\Documents\Zalo Received Files\asmtiennuoc\asmtiennuoc\obj\Debug\asmtiennuoc.pdb
+C:\Users\Quang Tuan\Documents\Zalo Received Files\asmtiennuoc\asmtiennuoc\obj\Debug\asmtiennuoc.Form2.resources
+D:\asmtiennuoc (1)\asmtiennuoc\bin\Debug\asmtiennuoc.exe.config
+D:\asmtiennuoc (1)\asmtiennuoc\bin\Debug\asmtiennuoc.exe
+D:\asmtiennuoc (1)\asmtiennuoc\bin\Debug\asmtiennuoc.pdb
+D:\asmtiennuoc (1)\asmtiennuoc\obj\Debug\asmtiennuoc.csproj.AssemblyReference.cache
+D:\asmtiennuoc (1)\asmtiennuoc\obj\Debug\asmtiennuoc.Form1.resources
+D:\asmtiennuoc (1)\asmtiennuoc\obj\Debug\asmtiennuoc.Form2.resources
+D:\asmtiennuoc (1)\asmtiennuoc\obj\Debug\asmtiennuoc.Properties.Resources.resources
+D:\asmtiennuoc (1)\asmtiennuoc\obj\Debug\asmtiennuoc.csproj.GenerateResource.cache
+D:\asmtiennuoc (1)\asmtiennuoc\obj\Debug\asmtiennuoc.csproj.CoreCompileInputs.cache
+D:\asmtiennuoc (1)\asmtiennuoc\obj\Debug\asmtiennuoc.exe
+D:\asmtiennuoc (1)\asmtiennuoc\obj\Debug\asmtiennuoc.pdb
+C:\Users\tuanl\Documents\Zalo Received Files\asmtiennuoc (1)\asmtiennuoc\bin\Debug\asmtiennuoc.exe.config
+C:\Users\tuanl\Documents\Zalo Received Files\asmtiennuoc (1)\asmtiennuoc\bin\Debug\asmtiennuoc.exe
+C:\Users\tuanl\Documents\Zalo Received Files\asmtiennuoc (1)\asmtiennuoc\bin\Debug\asmtiennuoc.pdb
+C:\Users\tuanl\Documents\Zalo Received Files\asmtiennuoc (1)\asmtiennuoc\obj\Debug\asmtiennuoc.csproj.AssemblyReference.cache
+C:\Users\tuanl\Documents\Zalo Received Files\asmtiennuoc (1)\asmtiennuoc\obj\Debug\asmtiennuoc.Form1.resources
+C:\Users\tuanl\Documents\Zalo Received Files\asmtiennuoc (1)\asmtiennuoc\obj\Debug\asmtiennuoc.Form2.resources
+C:\Users\tuanl\Documents\Zalo Received Files\asmtiennuoc (1)\asmtiennuoc\obj\Debug\asmtiennuoc.Properties.Resources.resources
+C:\Users\tuanl\Documents\Zalo Received Files\asmtiennuoc (1)\asmtiennuoc\obj\Debug\asmtiennuoc.csproj.GenerateResource.cache
+C:\Users\tuanl\Documents\Zalo Received Files\asmtiennuoc (1)\asmtiennuoc\obj\Debug\asmtiennuoc.csproj.CoreCompileInputs.cache
+C:\Users\tuanl\Documents\Zalo Received Files\asmtiennuoc (1)\asmtiennuoc\obj\Debug\asmtiennuoc.exe
+C:\Users\tuanl\Documents\Zalo Received Files\asmtiennuoc (1)\asmtiennuoc\obj\Debug\asmtiennuoc.pdb
